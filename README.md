@@ -10,7 +10,7 @@ for example: python3 Rubiks_Cube.py GRGRYYYYOGOGBOBOWWWWBRBR
 # Rubik's Cube representation
 
 The Rubik's Cube representation is shown in the code under "sticker indices".
-The following website helped me in this project:
+The following website helped me understand how to represent the Cube's states in this project:
 https://ruwix.com/online-puzzle-simulators/2x2x2-pocket-cube-simulator.php
 
 Enjoy!
